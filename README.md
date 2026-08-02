@@ -28,7 +28,7 @@ Follow along in my journey of learning rust here: https://github.com/importstrin
 ---
 
 
-## Acitivty
+## Activity
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
